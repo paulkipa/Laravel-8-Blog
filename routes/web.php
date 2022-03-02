@@ -17,8 +17,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// www.alphayo.com
-// www.alphayo.com/
+// www.paulkipa.com
+// www.paulkipa.com/
 
 // Using closure
 // Route::get('/', function () {
